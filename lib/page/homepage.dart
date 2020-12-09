@@ -26,9 +26,7 @@ class HomePage extends HookWidget {
                   ),
                   TextField(
                     keyboardType: TextInputType.number,
-                    onChanged: context
-                        .read(appPageStateNotifier)
-                        .validCpf, //(value) => () {},
+                    onChanged: context.read(appPageStateNotifier).validCpf,
                   ),
                   MaterialButton(
                     minWidth: double.infinity,
