@@ -1,5 +1,5 @@
-# riverpod_example
- Exemplo usando o Riverpod para gerenciamento de estados na aplicaÇão Flutter.
+# riverpod example
+ Exemplo usando o Riverpod para gerenciamento de estados na aplicação Flutter.
  
  # Bibliotecas Utilizadas
   - flutter_hooks: ^0.14.0
