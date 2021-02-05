@@ -1,5 +1,5 @@
-# Aplicativo verifica CPF/CNPJ (Riverpod)
- Aplicativo verifica se é válido um CPF ou CNPJ, usando o `Riverpod` para gerenciamento de estados na aplicação `Flutter`.
+# Aplicativo verifica CPF/CNPJ (versão Riverpod)
+ Aplicativo verifica se é válido um CPF/CNPJ, usando o `Riverpod` para gerenciamento de estados na aplicação `Flutter`.
  
   ### Projeto desenvolvido ultilizando:
   - [x] Flutter
